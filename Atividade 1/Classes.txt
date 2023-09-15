@@ -1,0 +1,68 @@
+classe Plano:
+	eixoX [...]
+	eixoY [...]
+	definir tamanho(len):
+		eixoX = len[...]
+		eixoY = len[...]
+	
+	definir plano():
+		plotar matriz_de_pontos(eixoX, eixoY)
+		
+
+classe Geometrias:
+	formas [...]
+	definir inserir_forma(A):
+		acrescentar A em formas [...]
+	definir formas no plano():
+		para cada forma:
+			plotar forma
+
+
+classe Ponto:
+	x
+	y
+	definir ponto(x1, y1):
+		x = x1
+		y = y1
+
+
+classe Linha:
+	ponto1
+	ponto2
+	definir linha(x1, y1, x2, y2):
+		ponto1 = Ponto(x1, y1)
+		ponto2 = Ponto(x2, y2)
+
+	definir comprimento():
+		L = sqrt((x1-x2)^2 + (y1-y2)^2)
+		retonar L
+
+
+classe Triangulo:
+	linha1
+	linha2
+	linha3
+	definir trinagulo(x1, y1, x2, y2, x3, y3):
+		linha1 = Reta(x1, y1, x2, y2)
+		linha2 = Reta(x2, y2, x3, y3)
+		linha3 = Reta(x3, y3, x1, y1)
+
+
+classe Retangulo:
+	linha1
+	linha2
+	linha3
+	linha4
+	definir retangulo(x1, y1, x2, y2, x3, y3, x4, y4):
+		linha1 = Linha(x1, y1, x2, y2)
+		linha2 = Linha(x2, y2, x3, y3)
+		linha3 = Linha(x3, y3, x4, y4)
+		linha4 = Linha(x4, y4, x1, y1)
+
+
+classe Circulo:
+	pontocentral
+	raio
+	definir circulo(x1, y1, r):
+		pontocentral = Ponto(x1, y1)
+		raio = r
