@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5f213c29-55b5-4638-97bb-643673bbba0d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Projeto_2/READ ME.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projeto_2/my_libraries/Board.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projeto_2/my_libraries/Shapes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projeto_2/my_libraries/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projeto_2/testbench_1.0.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projeto_2/testbench_1.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projeto_2/testbench_1.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atividade 1/Classes.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atividade 1/Main.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projeto 1/Classes.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projeto 1/Main.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2VQRMUb8s2IzPBEDLOYEnhrIYOj" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Rodrigo/Documents/GitHub/Orientacao_a_Objetos/Projeto_2&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;aDefault&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Rodrigo\Documents\GitHub\Orientacao_a_Objetos\Projeto_2" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.testbench_1.0">
+    <configuration name="testbench_1.0" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Orientacao_a_Objetos" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Projeto_2/testbench_1.0.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="testbench_1.1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Orientacao_a_Objetos" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Projeto_2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Projeto_2/testbench_1.1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="testbench_1.2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Orientacao_a_Objetos" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Projeto_2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Projeto_2/testbench_1.2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.testbench_1.0" />
+      <item itemvalue="Python.testbench_1.1" />
+      <item itemvalue="Python.testbench_1.2" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.testbench_1.1" />
+        <item itemvalue="Python.testbench_1.2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5f213c29-55b5-4638-97bb-643673bbba0d" name="Changes" comment="" />
+      <created>1694766269863</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1694766269863</updated>
+      <workItem from="1694766271090" duration="1733000" />
+      <workItem from="1694809212809" duration="3246000" />
+      <workItem from="1695044914588" duration="162000" />
+      <workItem from="1695610867900" duration="95000" />
+      <workItem from="1696182800861" duration="115000" />
+      <workItem from="1696454762933" duration="279000" />
+      <workItem from="1696455235256" duration="227000" />
+      <workItem from="1696455519717" duration="11292000" />
+      <workItem from="1696702559812" duration="5459000" />
+      <workItem from="1696708636360" duration="30618000" />
+      <workItem from="1696756052694" duration="1000" />
+      <workItem from="1696783904702" duration="19338000" />
+      <workItem from="1697239954724" duration="1792000" />
+      <workItem from="1697845551141" duration="1139000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Orientacao_a_Objetos$Shapes.coverage" NAME="Shapes Coverage Results" MODIFIED="1696711190419" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Projeto_2/my_libraries" />
+    <SUITE FILE_PATH="coverage/testbench_1_1_py$testbench_1_0.coverage" NAME="testbench_1.0 Coverage Results" MODIFIED="1696835247454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Orientacao_a_Objetos$Board.coverage" NAME="Board Coverage Results" MODIFIED="1696707030279" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Projeto_2/my_libraries" />
+    <SUITE FILE_PATH="coverage/Orientacao_a_Objetos$main.coverage" NAME="testbench_1.0 Coverage Results" MODIFIED="1696755701499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Orientacao_a_Objetos$testbench_1_0.coverage" NAME="testbench_1.0 Coverage Results" MODIFIED="1696711195032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Projeto_2" />
+    <SUITE FILE_PATH="coverage/Orientacao_a_Objetos$testbench_1_1.coverage" NAME="testbench_1.1 Coverage Results" MODIFIED="1696734656630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Projeto_2" />
+    <SUITE FILE_PATH="coverage/Orientacao_a_Objetos$shapes2d.coverage" NAME="shapes2d Coverage Results" MODIFIED="1696457899332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Projeto 2/Shapes2D/my_libraries" />
+    <SUITE FILE_PATH="coverage/Orientacao_a_Objetos$Atividade_2.coverage" NAME="Atividade 2 Coverage Results" MODIFIED="1694811896356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Atividade 2" />
+    <SUITE FILE_PATH="coverage/Orientacao_a_Objetos$Plano_Cartesiano.coverage" NAME="Plano_Cartesiano Coverage Results" MODIFIED="1696705046941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Projeto_2/my_libraries" />
+    <SUITE FILE_PATH="coverage/testbench_1_1_py$T2.coverage" NAME="T2 Coverage Results" MODIFIED="1696821614147" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Projeto_2" />
+    <SUITE FILE_PATH="coverage/testbench_1_1_py$Teste.coverage" NAME="Teste Coverage Results" MODIFIED="1696821598397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Projeto_2" />
+    <SUITE FILE_PATH="coverage/Orientacao_a_Objetos$testbench_1_2.coverage" NAME="testbench_1.2 Coverage Results" MODIFIED="1696734647052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Projeto_2" />
+    <SUITE FILE_PATH="coverage/Orientacao_a_Objetos$coordsystems.coverage" NAME="coordsystems Coverage Results" MODIFIED="1696457892010" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Projeto 2/Shapes2D/my_libraries" />
+    <SUITE FILE_PATH="coverage/Orientacao_a_Objetos$Formas_Geometricas.coverage" NAME="Formas_Geometricas Coverage Results" MODIFIED="1696465970734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Projeto_2/my_libraries" />
+  </component>
+</project>
