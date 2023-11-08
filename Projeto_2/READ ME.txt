@@ -1,0 +1,1 @@
+Esté algoritmo foi feito com o intuito de criar um mini universo onde são adicionadas formas geométricas, e utilizando certas funções é possível verificar se há a colisão entre essa formas ou não.
